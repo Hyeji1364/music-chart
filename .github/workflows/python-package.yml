@@ -50,6 +50,3 @@ jobs:
       with: 
         branch: "main"
         github_token: $
-      with: 
-        branch: "main"
-        github_token: $
